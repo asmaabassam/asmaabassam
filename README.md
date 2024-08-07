@@ -1,6 +1,6 @@
 ## Hi there 
 - 🌱 I’m currently learning html,css,Javascript
-- 👯 I’m looking to find remote front end developer position in good company
+- 👯 I’m looking  to Collaprate on new project with defferent devolpers
 - 📫 How to reach me:aeashabasam@gmail.com
 - 😄 Pronouns:zien
 - ⚡ Fun fact: I love gym so much
